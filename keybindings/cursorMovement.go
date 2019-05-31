@@ -2,7 +2,6 @@ package keybindings
 
 import (
 	"github.com/nsf/termbox-go"
-
 	"github.com/sebashwa/vixl44/actions/cursor"
 )
 
@@ -35,5 +34,13 @@ func CursorMovement(Ch rune, Key termbox.Key) {
 		cursor.Move('Y', -5)
 	case termbox.KeyCtrlD:
 		cursor.Move('Y', +5)
+	case termbox.KeyArrowDown:
+		cursor.Move('Y', 1)
+	case termbox.KeyArrowUp:
+		cursor.Move('Y', -1)
+	case termbox.KeyArrowRight:
+		cursor.Move('X', +1)
+	case termbox.KeyArrowLeft:
+		cursor.Move('X', -1)
 	}
 }
