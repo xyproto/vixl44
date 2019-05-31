@@ -1,0 +1,20 @@
+# github.com/lucasb-eyer/go-colorful v1.0.2
+github.com/lucasb-eyer/go-colorful
+# github.com/mattn/go-runewidth v0.0.4
+github.com/mattn/go-runewidth
+# github.com/nsf/termbox-go v0.0.0-20190325093121-288510b9734e
+github.com/nsf/termbox-go
+# github.com/sebashwa/iwouldlove v0.0.0-20171025223116-7828307c0c7d
+github.com/sebashwa/iwouldlove
+# github.com/sebashwa/vixl44 v0.0.0-20171026205401-8001e33e9030
+github.com/sebashwa/vixl44/drawing
+github.com/sebashwa/vixl44/factory
+github.com/sebashwa/vixl44/keybindings
+github.com/sebashwa/vixl44/modes
+github.com/sebashwa/vixl44/state
+github.com/sebashwa/vixl44/types
+github.com/sebashwa/vixl44/actions/paint
+github.com/sebashwa/vixl44/colors
+github.com/sebashwa/vixl44/actions
+github.com/sebashwa/vixl44/actions/command
+github.com/sebashwa/vixl44/actions/cursor
